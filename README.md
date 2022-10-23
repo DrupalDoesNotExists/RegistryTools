@@ -45,14 +45,14 @@ repositories {
 ```
 ```groovy
 dependencies {
-    implementation 'com.github.DrupalDoesNotExists:RegistryTools:<VERSION>'
+    implementation 'com.github.DrupalDoesNotExists:RegistryTools:<VERSION>:dev'
 }
 ```
 
 Also, you can use version shortcut provided by JitPack if you need only latest version.
 ```groovy
 dependencies {
-    implementation 'com.github.DrupalDoesNotExists:RegistryTools:master-SNAPSHOT'
+    implementation 'com.github.DrupalDoesNotExists:RegistryTools:master-SNAPSHOT:dev'
 }
 ```
 
