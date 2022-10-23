@@ -15,7 +15,7 @@ It supports
 NMS registries allows You to add custom feature to default Minecraft.
 But, they have several differences from the Bukkit API.
 
-**You may need registries for this purposes**
+**You may need registries for these purposes**
 
  1. Creating custom biomes
  2. Adding custom structures, block entities, items, sounds
@@ -89,7 +89,7 @@ public class MyPlugin extends JavaPlugin {
 
 ## TO-DO
 
-At the moment, the project is completed and the only plans left are updating to new versions and fixing bugs.
+At the moment, the project is completed, and the only plans left are updating to new versions and fixing bugs.
 However, if necessary, changes related to the API will be made to the project.
 
 ## License
@@ -104,6 +104,6 @@ Please, try to create issues and bug reports that are:
 
   * *Reproducible*. If it is possible...
     
-  * *Detailed*. Include as much details as you can
+  * *Detailed*. Include as many details as you can
     
   * *Unique*. Do not copy or duplicate existing issue
