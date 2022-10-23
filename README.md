@@ -5,25 +5,25 @@
 RegistryTools is a simple API wrapper around NMS Registry with Mojang mappings.
 It supports
 
-* Getting and caching registries
-* Registering own entries
-* ResourceKey creation
-* Freezing/unfreezing registries
+  * Getting and caching registries
+  * Registering own entries
+  * ResourceKey creation
+  * Freezing/unfreezing registries
 
-## Why registries?
+## Why registries
 
 NMS registries allows You to add custom feature to default Minecraft.
 But, they have several differences from the Bukkit API.
 
 **You may need registries for this purposes**
 
-1. Creating custom biomes
-2. Adding custom structures, block entities, items, sounds
-3. etc
+ 1. Creating custom biomes
+ 2. Adding custom structures, block entities, items, sounds
+ 3. etc
 
 **Default commands uses registry, all your content will be visible!**
 
-## What about reflection?
+## What about reflection
 
 RegistryTools does not use Reflection API in usual sense.
 Only thing used is VarHandle mechanism. It works much faster and cleaner.
@@ -102,7 +102,8 @@ You can contribute to the project by opening issues and pull requests.
 
 Please, try to create issues and bug reports that are:
 
-* *Reproducible*. If it is possible...
-* *Detailed*. Include as much details as you can
-* *Unique*. Do not copy or duplicate existing issue
-
+  * *Reproducible*. If it is possible...
+    
+  * *Detailed*. Include as much details as you can
+    
+  * *Unique*. Do not copy or duplicate existing issue
