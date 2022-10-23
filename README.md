@@ -1,6 +1,9 @@
 # RegistryTools
 
+[![Java CI with Gradle](https://github.com/DrupalDoesNotExists/RegistryTools/actions/workflows/gradle.yml/badge.svg)](https://github.com/DrupalDoesNotExists/RegistryTools/actions/workflows/gradle.yml)
+[![](https://jitpack.io/v/DrupalDoesNotExists/RegistryTools.svg)](https://jitpack.io/#DrupalDoesNotExists/RegistryTools)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5b735d81d78e4645be7805eeea154a01)](https://www.codacy.com/gh/DrupalDoesNotExists/RegistryTools/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DrupalDoesNotExists/RegistryTools&amp;utm_campaign=Badge_Grade)
+[![Dependency Review](https://github.com/DrupalDoesNotExists/RegistryTools/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/DrupalDoesNotExists/RegistryTools/actions/workflows/dependency-review.yml)
 
 RegistryTools is a simple API wrapper around NMS Registry with Mojang mappings.
 It supports
